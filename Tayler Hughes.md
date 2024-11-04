@@ -7,8 +7,8 @@
 -   Create button light component ✅
 -   FAQ answer text to light gray ✅
 -   Add navigations at footer ✅
--   Add work showcase title and vie project link
-    -   Add navigation buttons to user reviews chat section (optoional)
+-   Add work showcase title and view project link
+-   Add navigation buttons to user reviews chat section (optoional)
 -   Change scrollbar styles (optional)
 -   Add border and shadows to case studies images (low priority)
 -   Use 'Albert Sans' font only
@@ -21,6 +21,8 @@
 ## UI Issues
 
 -   Fix Reviews and Rating Section
+    -   styling
+    -   mobile view
 -   When closing case study scrollbar resets its position to zero (critical)
 -   Tablet menu icon disapers on open (critical)
 -   FAQ on last toggle Qs flicker issue
@@ -30,7 +32,7 @@
 ## UI Interations
 
 -   Add Text Reveal effect
--   Add hover zoomeffect for button component (dark)
+-   Add hover zoomeffect for button component (dark | light)
 -   Add hover text effect on Price component
     -   (view plans)
     -   (try sprints)
@@ -53,12 +55,26 @@ https://framer-slides.framer.website/
 
 ## Time Track
 
-| Tasks                   | Day | Time |
-| :---------------------- | :-: | :--: |
-| Initial Figma Migration | Mon |  2h  |
-| -                       | Tue |  2h  |
-| -                       | Wed |  3h  |
-|                         | Thu |  4h  |
-|                         | Fri |  0h  |
-|                         | Sat |  2h  |
-|                         | Sun |  1h  |
+### Week 2
+
+| Tasks                        | Day | Time |
+| :--------------------------- | :-: | :--: |
+| Figma Migration              | Mon |  2h  |
+| Figma Migration + UI Changes | Tue |  2h  |
+| Figma Migration + Fixes      | Wed |  3h  |
+| UI changes + Fixes           | Thu |  4h  |
+|                              | Fri |  --  |
+| UI changes + Fixes           | Sat |  2h  |
+| UI changes + Fixes           | Sun |  1h  |
+
+### Week 3
+
+| Tasks | Day | Time |
+| :---- | :-: | :--: |
+|       | Mon |  0h  |
+|       | Tue |  0h  |
+|       | Wed |  0h  |
+|       | Thu |  0h  |
+|       | Fri |  0h  |
+|       | Sat |  0h  |
+|       | Sun |  0h  |
