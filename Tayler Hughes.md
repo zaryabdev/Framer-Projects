@@ -15,7 +15,7 @@
 -   🎨 Add navigation buttons to user reviews chat section (optoional)
 -   🎨 Change scrollbar styles (optional)
 -   Add border and shadows to case studies images
--   Use 'Albert Sans' font only
+-   Use 'Albert Sans' font only ✅
 -   Reduce padding for mobile as much as possible for
     -   Pricing
     -   Pricing CTA
@@ -44,6 +44,11 @@
     -   (services)
 -   🎨 Add sections reveal effect animation (sugesstions)
 -   🎨 Add loading screen (sugesstions)
+-   🎨 Fixed footer just like lmitless template
+
+## Integrations
+
+-   🎨 Airtables for waitlist
 
 ## Notes
 
@@ -68,7 +73,7 @@ https://framer-slides.framer.website/
 | Figma Migration + UI Changes | Tue |  2h  |
 | Figma Migration + Fixes      | Wed |  3h  |
 | UI changes + Fixes           | Thu |  4h  |
-|                              | Fri |  --  |
+|                              | Fri |      |
 | UI changes + Fixes           | Sat |  2h  |
 | UI changes + Fixes           | Sun |  1h  |
 
