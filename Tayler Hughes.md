@@ -1,5 +1,9 @@
 # TODO List
 
+🔥 High priority
+🎨 Sugesstions
+✅ Task Complete
+
 ## UI changes
 
 -   Create availablity badge component ✅
@@ -8,9 +12,9 @@
 -   FAQ answer text to light gray ✅
 -   Add navigations at footer ✅
 -   Add work showcase title and view project link
--   Add navigation buttons to user reviews chat section (optoional)
--   Change scrollbar styles (optional)
--   Add border and shadows to case studies images (low priority)
+-   🎨 Add navigation buttons to user reviews chat section (optoional)
+-   🎨 Change scrollbar styles (optional)
+-   Add border and shadows to case studies images
 -   Use 'Albert Sans' font only
 -   Reduce padding for mobile as much as possible for
     -   Pricing
@@ -23,22 +27,23 @@
 -   Fix Reviews and Rating Section
     -   styling
     -   mobile view
--   When closing case study scrollbar resets its position to zero (critical)
--   Tablet menu icon disapers on open (critical)
--   FAQ on last toggle Qs flicker issue
+-   Menu issues
+    -   🔥 When closing case study scrollbar resets its position to zero (critical)
+    -   🔥 Tablet menu icon disapers on open (critical)
+-   FAQ on last toggle Qs flicker issue ✅
 -   Hide ratings avatars border
 -   When opening and closing menu, icons are replaced from there orignal positions
 
 ## UI Interations
 
--   Add Text Reveal effect
+-   🔥 Add Text Reveal effect
 -   Add hover zoomeffect for button component (dark | light)
 -   Add hover text effect on Price component
     -   (view plans)
     -   (try sprints)
     -   (services)
--   Add sections reveal effect animation (sugesstions)
--   Add loading screen (sugesstions)
+-   🎨 Add sections reveal effect animation (sugesstions)
+-   🎨 Add loading screen (sugesstions)
 
 ## Notes
 
