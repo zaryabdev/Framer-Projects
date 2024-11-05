@@ -12,22 +12,22 @@
 -   FAQ answer text to light gray ✅
 -   Add navigations at footer ✅
 -   Add work showcase title and view project link
+    -   Add border and shadows to case studies images
 -   🎨 Add navigation buttons to user reviews chat section (optoional)
 -   🎨 Change scrollbar styles (optional)
--   Add border and shadows to case studies images
 -   Use 'Albert Sans' font only ✅
 -   Reduce padding for mobile as much as possible for
-    -   Pricing
+    -   Pricing ✅
     -   Pricing CTA
-    -   About Text
+    -   About Text ✅
 -   Fix moblie nav even recreate new one if needed
 -   Make all section shrink and grow
     -   Hero ✅
     -   Video ✅
     -   Text ✅
     -   Services ✅
-    -   Price & Plans
-    -   Book a call
+    -   Price & Plans ✅
+    -   Book a call ✅
     -   FAQs
     -   CTAs
 
@@ -46,7 +46,7 @@
 ## UI Interations
 
 -   🔥 Add Text Reveal effect
--   Add hover zoomeffect for button component (dark | light)
+-   Add hover zoom effect for button component (dark | light)
 -   Add hover text effect on Price component
     -   (view plans)
     -   (try sprints)
@@ -75,15 +75,15 @@
 
 ### Week 3
 
-| Tasks | Day | Time |
-| :---- | :-: | :--: |
-|       | Mon |  0h  |
-|       | Tue |  0h  |
-|       | Wed |  0h  |
-|       | Thu |  0h  |
-|       | Fri |  0h  |
-|       | Sat |  0h  |
-|       | Sun |  0h  |
+| Tasks      | Day | Time |
+| :--------- | :-: | :--: |
+|            | Mon |      |
+| UI changes | Tue |  1h  |
+|            | Wed |  0h  |
+|            | Thu |  0h  |
+|            | Fri |  0h  |
+|            | Sat |  0h  |
+|            | Sun |  0h  |
 
 ## Notes
 
