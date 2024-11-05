@@ -25,7 +25,7 @@
     -   Hero ✅
     -   Video ✅
     -   Text ✅
-    -   Services
+    -   Services ✅
     -   Price & Plans
     -   Book a call
     -   FAQs
