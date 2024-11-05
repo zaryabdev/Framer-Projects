@@ -29,7 +29,7 @@
     -   Price & Plans ✅
     -   Book a call ✅
     -   FAQs
-    -   CTAs
+    -   CTAs ✅
 
 ## UI Issues
 
