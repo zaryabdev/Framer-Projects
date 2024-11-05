@@ -54,7 +54,7 @@
 
 Max width of containers
 Desktop : 1098px
-Tablet : 720px
+Tablet : 810px
 Mobile : 360px
 
 ## Ref Deck Sites
