@@ -21,6 +21,15 @@
     -   Pricing CTA
     -   About Text
 -   Fix moblie nav even recreate new one if needed
+-   Make all section shrink and grow
+    -   Hero ✅
+    -   Video ✅
+    -   Text ✅
+    -   Services
+    -   Price & Plans
+    -   Book a call
+    -   FAQs
+    -   CTAs
 
 ## UI Issues
 
@@ -50,19 +59,6 @@
 
 -   🎨 Airtables for waitlist
 
-## Notes
-
-Max width of containers
-Desktop : 1098px
-Tablet : 810px
-Mobile : 360px
-
-## Ref Deck Sites
-
-https://framer-slides-lite.framer.website/
-
-https://framer-slides.framer.website/
-
 ## Time Track
 
 ### Week 2
@@ -88,3 +84,42 @@ https://framer-slides.framer.website/
 |       | Fri |  0h  |
 |       | Sat |  0h  |
 |       | Sun |  0h  |
+
+## Notes
+
+Max width of containers
+Desktop : 1098px
+Tablet : 810px
+Mobile : 360px
+
+# Breakpoints
+
+# willard
+
+Desktop >1920 -> 1200
+Tablet 1200 -> 810
+Mobile 810 -> 360<
+
+# offmenu
+
+Desktop >1920 -> 990
+Tablet 990 -> 770
+Mobile 770 -> 480<
+
+## Content Details
+
+# Video
+
+Source URL of org brand video : https://utfs.io/f/DN9KdIF315V9K9Ev08ueu0hi2d9B54ocyFxG3DWNVbTvCQEU
+Orignal dimensions : 1920x1080
+Ref video dimension : 1360x765
+
+Sample video URL : http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+Aspect Ratio calculator : https://andrew.hedges.name/experiments/aspect_ratio/
+
+## Ref Deck Sites
+
+https://framer-slides-lite.framer.website/
+
+https://framer-slides.framer.website/
