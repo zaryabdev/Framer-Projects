@@ -75,15 +75,15 @@
 
 ### Week 3
 
-| Tasks      | Day | Time |
-| :--------- | :-: | :--: |
-|            | Mon |      |
-| UI changes | Tue |  1h  |
-|            | Wed |  0h  |
-|            | Thu |  0h  |
-|            | Fri |  0h  |
-|            | Sat |  0h  |
-|            | Sun |  0h  |
+| Tasks                            | Day | Time |
+| :------------------------------- | :-: | :--: |
+|                                  | Mon |      |
+| Created Responsive UI Components | Tue |  2h  |
+|                                  | Wed |      |
+|                                  | Thu |      |
+|                                  | Fri |      |
+|                                  | Sat |      |
+|                                  | Sun |      |
 
 ## Notes
 
